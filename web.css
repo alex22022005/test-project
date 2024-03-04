@@ -1,0 +1,38 @@
+body
+{
+
+}
+.ii{
+    
+   z-index: -1;
+   position: absolute;
+   top: 0%;
+   left: 0%;
+}
+
+.head1
+{
+    margin-top: 10%;
+}
+
+.product1
+{
+    font-size: large;
+
+}
+
+.product2
+{
+    font-size: large;
+}
+
+footer
+{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
